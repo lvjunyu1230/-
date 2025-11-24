@@ -1,0 +1,5 @@
+{
+  "name": "Crazy Skill Gobang (爆笑技能五子棋)",
+  "description": "A humorous twist on the classic Five-in-a-Row game featuring random wacky skills and an AI commentator powered by Gemini that roasts your moves.",
+  "requestFramePermissions": []
+}
